@@ -31,7 +31,10 @@ Example input
 
 ## Section B: Projects
 
-In this section I will be presenting a prject I am mostly proud.
+In this section I will be presenting a project I am mostly proud.
+<br>
+Resporitory Link:
+https://github.com/Brushido-W/EDA-on-datasets
 
 ## Section C: Code Challenge
 
