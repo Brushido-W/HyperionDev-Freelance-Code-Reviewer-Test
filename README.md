@@ -51,4 +51,5 @@ In this section i will be explaining more about myself and answering the questio
 <li>Working remotely, how do you deal with power and connectivity outages? Do you have a backup system?</li>
 </ul>
 <br>
-Video link: 
+Video link: <br>
+https://www.loom.com/share/db3818c16b1948b6be1118b4428ffc09
