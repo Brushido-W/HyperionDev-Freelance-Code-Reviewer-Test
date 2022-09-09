@@ -8,9 +8,9 @@ In this section I will present my review on a hypothetical student sumbissions b
 2. Efficiency
 3. Style
 4. Documentation
-<br>
-I have also commented on the postive aspects and improvements that are necessary for the students.
 
+I have also commented on the postive aspects and improvements that are necessary for the students.<br>
+<br>
 Option 1: Python Task<br>
 <br>
 I have seleceted the first option which is in python to do my review.
