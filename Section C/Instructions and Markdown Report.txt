@@ -1,0 +1,29 @@
+Instructions and scripts necessary to build, test and run
+----------------------------------------------------------
+
+For this task you will NumberFormat Script operation. To install this script your will simply 
+use java import keyword which is used to access package and its classes into the java program. 
+
+You will use the code; “import java.text.NumberFormat;” complete this task.
+Next you will need to fun this code and check for any errors, if you receive a error that 
+states “No ‘public class’ found to execute” you have successfully imported your script. 
+
+The reason it gives this error is because the built-in package refers to a class that is in 
+another package by directly using its name. from here you will need to create your class, 
+which for this program it is going to be “public class SayTheNumber {}”.
+
+From here you are going to create main method in the class SayTheNumber and you will do this 
+by defining the main method as: public static void main(String[] args). For this task you 
+will also need to use the “public static final String[]” to store constant values. 
+Since we are required to include a test suite for your solution, we will firstly declare n 
+as an integer and further go onto print each of the input values.
+
+
+Markdown report
+---------------
+
+Space complexity is a measure of the amount of working storage an algorithm needs. 
+That means how much memory, in the worst case, is needed at any point in the algorithm. 
+Given the size of n can be any value from 0 to 999,999,999,999,999 the running time and 
+memory can be greatly affected by the input but the opposite is true if the value of n is 
+any value less than 10.
