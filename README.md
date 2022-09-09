@@ -33,7 +33,8 @@ Example input
 
 In this section I will be presenting a project I am mostly proud.
 <br>
-Resporitory Link:
+<br>
+Resporitory Link:<br>
 https://github.com/Brushido-W/EDA-on-datasets
 
 ## Section C: Code Challenge
