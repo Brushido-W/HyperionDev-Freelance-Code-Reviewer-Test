@@ -10,7 +10,7 @@ In this section I will be presenting a prject I am mostly proud.
 
 ## Section C: Code Challenge
 
-Option 1: Say the Number
+Option 1: Say the Number<br>
 For his section i chose to complete the first coding challange because i found it the most interesting.
 Considering the fact that i chose python in the first section,i used the java for this section. 
 
